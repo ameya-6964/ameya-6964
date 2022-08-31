@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Front-End Development, AWS / Microsoft Cloud Services & Java. **
+- 💬 Ask me about Front-End Development, AWS / Microsoft Cloud Services & Java. 
 
 - 📫 How to reach me **belvalkar7@gmail.com**
 
