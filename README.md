@@ -3,11 +3,11 @@
 <h3 align="center">A Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-6964&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-6964" /> </p>
-<p align="left"> <a href="https://twitter.com/belvalkaramey" target="blank"><img src="https://img.shields.io/twitter/follow/belvalkaramey?logo=twitter&style=for-the-badge" alt="belvalkaramey" /></a> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **Front-End Development, AWS / Microsoft Cloud Services & Java** 
+- 💬 Ask me about **Front-End Development, AWS / Azure Services & Java** 
 
 - 📫 How to reach me **belvalkar7@gmail.com**
 
