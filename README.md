@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **Full E-Commerce App With React and Next.js**<br>🌱 I’m currently learning **Full Stack Web Development**<br>💬 Ask me about **Front-End Development, SQL, NoSQL & Java**<br>⚡ Fun fact **I am machine that turns coffee into code**
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameya6964_og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameya-belvalkar-210652136/) 
 
 # 💻 Tech Stack:
