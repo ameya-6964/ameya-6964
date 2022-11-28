@@ -1,5 +1,5 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me : 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me: 
 🔭 I’m currently working on **Full E-Commerce App With React and Next.js**<br>🌱 I’m currently learning **Full Stack Web Development**<br>💬 Ask me about **Front-End Development, SQL, NoSQL & Java**<br>⚡ Fun fact **I am machine that turns coffee into code**
 
 # <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> Socials:
