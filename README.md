@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=ameya-6964&label=Profile%20Visits&color=8&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆: 
-🔭 I’m currently working on **Full E-Commerce App With React and Next.js** <br/> <br/>🌱 I’m currently learning **Full Stack Web Development**<br/> <br/>💬 Ask me about **Front-End Development, SQL, NoSQL & Java**<br/> <br/>⚡ Fun fact **I am machine that turns coffee into code**
+🔭 I’m currently working on **Full E-Commerce App With React and Next.js** <br/> <br/>🌱 I’m currently learning **Full Stack Web Development**<br/> <br/>💬 Ask me about **HTML, CSS, JavaScript, SQL, NoSQL & Java**<br/> <br/>⚡ Fun fact **I am machine that turns coffee into code**
 <br/> <br/>
 # <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameya6964_og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameya-belvalkar-210652136/) 
