@@ -1,15 +1,14 @@
-<div align="center">
-  <img height="450"
-        width="1000"    src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"  />
-</div>
-
-###
-
 <h2 align="center">Hi 👋! My Name Is Ameya and I'm a Full Stack Software Developer</h2>
 
 ###
 
 <p align="left">🔭 I’m currently Upscaling Myself With Advance Concepts Of Web Development and Java Development<br><br>🌱 I’m currently learning Full Stack Web Development and Full Stack Java Development<br><br>💬 Ask me about HTML, CSS, JavaScript, SQL, NoSQL & Java<br><br>⚡ Fun fact I am machine that turns coffee into code</p>
+
+###
+
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+</div>
 
 ###
 
@@ -30,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
