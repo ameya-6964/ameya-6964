@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My Name Is Ameya and I'm a Full Stack Software Developer</h2>
 
 <div style="center">
-  <img height="500"  src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"   />
+  <img height="400"  src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"   />
 </div>
 
 # 💫 About Me:
