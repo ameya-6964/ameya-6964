@@ -1,14 +1,14 @@
 <h2 align="center">Hi 👋! My Name Is Ameya and I'm a Full Stack Software Developer</h2>
 
 <div style="center">
-  <img height="400"  src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"   />
+  <img height="400" width="100%"  src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"   />
 </div>
 
 # 💫 About Me:
 🔭 I’m currently Upscaling Myself With Advance Concepts Of Web Development and Java Development<br><br>🌱 I’m currently learning Full Stack Web Development and Full Stack Java Development<br><br>💬 Ask me about HTML, CSS, JavaScript, SQL, NoSQL & Java<br><br>⚡ Fun fact I am machine that turns coffee into code
 
 <div style="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"   />
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"   />
 </div>
 
 <div style="center">
