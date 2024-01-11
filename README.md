@@ -1,10 +1,5 @@
 ### <div align="center">Hi 👋! My Name Is Ameya and I'm a Full Stack Software Developer</div>  
 
-
-<div style="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"   />
-</div>
-
 # About Me:
 - 🔭 I’m currently working on [Book-It Hotel Booking Website](https://github.com/ameya-6964/BookIt-Hotel-Booking-Website)  
   
@@ -19,11 +14,6 @@
   
 
 <br/>  
-
-<div style="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"   />
-</div>
-
 
 
 ## My Skill Set  
@@ -55,7 +45,7 @@
 
 ### Backend + Database  
 <div align="center">  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://expressjs.com/images/favicon.png" alt="Express.js" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -84,6 +74,9 @@
 </div>
 
 </td></tr></table>  
+<div style="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"   />
+</div>
 
  
 <br />
