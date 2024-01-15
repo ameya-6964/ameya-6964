@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="900" alt="Ameya Belvalkar Banner" src="https://github.com/ameya-6964/ameya-6964/assets/104457295/6d1203dd-2b11-42f1-85ea-e08cf1e430a2">
+  
+ ![Mask group](https://github.com/ameya-6964/ameya-6964/assets/104457295/b22cbbe9-c8d7-4ca7-ab57-fa4902a23b8c)
 </div>
 
 <div align="center">
