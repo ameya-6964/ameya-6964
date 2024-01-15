@@ -1,8 +1,12 @@
-### <div align="center">Hi 👋! My Name Is Ameya and I'm a Full Stack Software Developer</div>  
-
 <div align="center">
   <img width="900" alt="Ameya Belvalkar Banner" src="https://github.com/ameya-6964/ameya-6964/assets/104457295/6d1203dd-2b11-42f1-85ea-e08cf1e430a2">
 </div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&duration=3000&pause=1000&color=00F706&center=true&vCenter=true&random=false&width=435&lines=My+Name+Is+Ameya+;I+am+a+Full-stack+Developer;Expertise+in+React+for+Front-end;Node.js+for+Backend+Development;Next.js+for+scalable+web+applications.)](https://git.io/typing-svg)
+
+</div>  
 
 # About Me:
   
