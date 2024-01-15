@@ -43,12 +43,12 @@
       <br>HTML5
     </td>
     <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="HTML5" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="jest" />
       <br>Jest
     </td>
       <td align="center" width="85">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="HTML5" />
-      <br>Styled
+     <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="docker" />
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -65,11 +65,11 @@
       <br>Material UI
     </td>
       <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="tailwind" />
+       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="graphql" />
       <br>graphQL
     </td>
      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="tailwind" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java" />
       <br>Java
     </td>
      <td align="center" width="85">
@@ -83,16 +83,16 @@
   </tr>
   <tr>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="sql" />
+       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
       <br>MySQL
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
+       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="aws" />
       <br>AWS
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg"" width="48" height="48" alt="rest-api" />
+      <br>REST 
     </td>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
@@ -103,8 +103,8 @@
       <br>Linux
     </td>
     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="linux" />
-      <br>Linux
+       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="linux" />
+      <br>Redux
     </td>
      <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="tailwind" />
