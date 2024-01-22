@@ -3,18 +3,17 @@
  ![Mask group](https://github.com/ameya-6964/ameya-6964/assets/104457295/b22cbbe9-c8d7-4ca7-ab57-fa4902a23b8c)
 </div>
 
-# About Me:
-  
-* 🌍  I'm based in India
-* ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
-* 🚀  I'm currently working on [Shop IT - Full Stack MERN E-Commerce Application](http://github.com/ameya-6964/shop-it-mern-stack-application)
-* 🧠  I'm learning Typescript and Spring Boot
-* 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
-* ⚡  Fun fact: I use tabs over spaces
- 
-  
-<br/>  
 
+
+# About Me:
+Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks like React, Next.js, and proficient in styling with Bootstrap and Tailwind. While excelling in creating seamless user experiences, I am a novice in designing and implementing RESTful APIs as part of back-end development. Additionally, I am dedicated to ensuring optimal server-side performance using Node.js and actively engaged in learning backend development with this technology.
+  
+- 🌍  I'm based in India
+- ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
+- 🚀  I'm currently working on [Shop IT - Full Stack MERN E-Commerce Application](http://github.com/ameya-6964/shop-it-mern-stack-application)
+- 🧠  I'm learning Typescript and Spring Boot
+- 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
+- ⚡  Fun fact: I use tabs over spaces
 
 ## My Skill Set  
 <table align="center"><tr><td align="top" width="33%">
@@ -119,13 +118,6 @@
 </div>
 
 </td></tr></table>  
-<div style="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"   />
-</div>
-
- 
-<br />
-<br />
 
 ## Connect with me  
 <div align="center">
@@ -146,16 +138,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ameya-6964&theme=default&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameya-6964&hide_border=true&layout=compact" />
-
-
-
-<br/>  
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&duration=3000&pause=1000&color=00F706&center=true&vCenter=true&random=false&width=435&lines=My+Name+Is+Ameya+;I+am+a+Full-stack+Developer;Expertise+in+React+for+Front-end;Node.js+for+Backend+Development;Next.js+for+scalable+web+applications.)](https://git.io/typing-svg)
-
-</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ameya-6964&&style=flat-square" align="center" />
