@@ -3,19 +3,15 @@
  ![Mask group](https://github.com/ameya-6964/ameya-6964/assets/104457295/b22cbbe9-c8d7-4ca7-ab57-fa4902a23b8c)
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&duration=3000&pause=1000&color=00F706&center=true&vCenter=true&random=false&width=435&lines=My+Name+Is+Ameya+;I+am+a+Full-stack+Developer;Expertise+in+React+for+Front-end;Node.js+for+Backend+Development;Next.js+for+scalable+web+applications.)](https://git.io/typing-svg)
-
-</div>  
-
 # About Me:
   
-- 🔭 I’m currently mastering backend part of full stack development
-  
-- ❓ Ask me about anything related to React.js and JavaScript. 
-  
-- ⚡ Fun fact: I use tabs over spaces  
+* 🌍  I'm based in India
+* ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
+* 🚀  I'm currently working on [Shop IT - Full Stack MERN E-Commerce Application](http://github.com/ameya-6964/shop-it-mern-stack-application)
+* 🧠  I'm learning Typescript and Spring Boot
+* 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
+* ⚡  Fun fact: I use tabs over spaces
+ 
   
 <br/>  
 
@@ -154,6 +150,12 @@
 
 
 <br/>  
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&duration=3000&pause=1000&color=00F706&center=true&vCenter=true&random=false&width=435&lines=My+Name+Is+Ameya+;I+am+a+Full-stack+Developer;Expertise+in+React+for+Front-end;Node.js+for+Backend+Development;Next.js+for+scalable+web+applications.)](https://git.io/typing-svg)
+
+</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ameya-6964&&style=flat-square" align="center" />
