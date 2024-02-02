@@ -1,5 +1,5 @@
-# About Me:
-Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks like React, Next.js, and proficient in styling with Bootstrap and Tailwind. While excelling in creating seamless user experiences, I am a novice in designing and implementing RESTful APIs as part of back-end development. Additionally, I am dedicated to ensuring optimal server-side performance using Node.js and actively engaged in learning backend development with this technology.
+# About Me 😃
+### Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Proficient in using locomotive for smooth scrolling effects. Adept at creating visually appealing designs with Bootstrap and Tailwind. Additionally, well-versed in Frontend System Design, ensuring robust and scalable architectures for optimal user experiences
   
 - 🌍  I'm based in India
 - ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
@@ -7,8 +7,24 @@ Full Stack Developer skilled in JavaScript and Java, specializing in front-end f
 - 🧠  I'm learning Typescript and Spring Boot
 - 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
 - ⚡  Fun fact: I use tabs over spaces
+  <br> <br> 
 
-## My Skill Set  
+# Lets Connect 🌐  
+<div align="center">
+<a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Ameya6964" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/ameya6964.jsx/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+ <br> 
+ 
+# My Skill Set 🔨
+
 <table align="center"><tr><td align="top" width="33%">
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -111,22 +127,9 @@ Full Stack Developer skilled in JavaScript and Java, specializing in front-end f
 </div>
 
 </td></tr></table>  
+ <br> 
 
-## Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Ameya6964" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ameya6964.jsx/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-
-## GitHub Stats:
+# GitHub Stats 📊
  
 <div align="center">
   
