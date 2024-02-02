@@ -1,10 +1,3 @@
-<div align="center">
-  
- ![Mask group](https://github.com/ameya-6964/ameya-6964/assets/104457295/b22cbbe9-c8d7-4ca7-ab57-fa4902a23b8c)
-</div>
-
-
-
 # About Me:
 Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks like React, Next.js, and proficient in styling with Bootstrap and Tailwind. While excelling in creating seamless user experiences, I am a novice in designing and implementing RESTful APIs as part of back-end development. Additionally, I am dedicated to ensuring optimal server-side performance using Node.js and actively engaged in learning backend development with this technology.
   
