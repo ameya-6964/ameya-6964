@@ -7,7 +7,7 @@
 - 🧠  I'm learning Typescript and Spring Boot
 - 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
 - ⚡  Fun fact: I use tabs over spaces
-  <br> <br> 
+  <br> 
 
 # Lets Connect 🌐  
  <br> 
