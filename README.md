@@ -1,5 +1,5 @@
 # About Me 😃
-### Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Proficient in using locomotive for smooth scrolling effects. Adept at creating visually appealing designs with Bootstrap and Tailwind. 
+### Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Proficient in using locomotive for smooth scrolling effects. Adept at creating visually appealing designs with Bootstrap and Tailwind Css. 
   
 - 🌍  I'm based in India
 - ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
