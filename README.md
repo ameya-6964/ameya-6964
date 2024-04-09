@@ -135,9 +135,6 @@
  
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=ameya-6964&theme=default&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp;
-
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameya-6964&langs_count=5&title_color=333333&text_color=333333&icon_color=4caf50&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/ameya-6964)
 </div>
 
