@@ -1,11 +1,10 @@
 # About Me 😃
-### Full Stack Developer skilled in JavaScript and Java, specializing in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Adept at creating visually appealing designs with Bootstrap and Tailwind CSS. 
+### Currently Learning Software Testing With Java Automation , Proficient in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Adept at creating visually appealing designs with Bootstrap and Tailwind CSS. 
   
 - 🌍  I'm based in India
 - ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
 - 🚀  I'm currently working on [Shop IT - Full Stack MERN E-Commerce Application](http://github.com/ameya-6964/shop-it-mern-stack-application)
-- 🧠  I'm learning Typescript and Spring Boot
-- 🤝  I'm open to collaborating on Frontend Applications With React Or Next.js
+- 🧠  I'm learning Software Testing With Java Automation 
 - ⚡  Fun fact: I use tabs over spaces
   <br> 
  <br> 
@@ -15,9 +14,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Ameya6964" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/ameya6964.jsx/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
