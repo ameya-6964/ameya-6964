@@ -1,139 +1,297 @@
-# About Me 😃
-### Currently Learning Software Testing With Java Automation , Proficient in front-end frameworks such as React, Next.js, and incorporating animation libraries like GSAP and Framer Motion. Adept at creating visually appealing designs with Bootstrap and Tailwind CSS. 
-  
-- 🌍  I'm based in India
-- ✉️  You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
-- 🚀  I'm currently working on [Shop IT - Full Stack MERN E-Commerce Application](http://github.com/ameya-6964/shop-it-mern-stack-application)
-- 🧠  I'm learning Software Testing With Java Automation 
-- ⚡  Fun fact: I use tabs over spaces
-  <br> 
- <br> 
+# About Me
 
-# Lets Connect 🌐  
- <br> 
+### Software Test Engineer focused on Automation Testing with Java, Selenium, Playwright, API Testing, and TestNG. Experienced in building reliable and maintainable automation solutions and validating web applications and REST APIs. I also have a strong development background with React, Next.js, JavaScript, and MERN stack technologies, which helps me understand applications from both development and testing perspectives.
+
+- 🌍 I'm based in India
+- ✉️ You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
+- 🚀 I'm currently working on a Banking Domain project for a Middle East client, specializing in the Lending domain. I also have experience working on Core Banking Transformation projects for a National client.
+- 🧠 I'm currently learning Advanced Software Test Automation with Java, Selenium, Playwright, and API Testing
+- 🔍 Interested in Web Automation, API Automation, Regression Testing, and Test Framework Development
+- 🏦 Experienced in Banking and Financial Services (BFSI) domain projects
+- ⚡ Fun fact: I use tabs over spaces
+
+<br>
+
+# Let's Connect
+
+<br>
+
 <div align="center">
+
 <a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="https://www.instagram.com/ameya6964.jsx/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
- <br> 
- 
-# My Skill Set 🔨
+<img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-<table align="center"><tr><td align="top" width="33%">
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mui" width="48" height="48" alt="tailwind" />
-      <br>Material UI
-    </td>
-  </tr>
+</div>
 
+<br>
 
-  
-  <tr>
-      <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="45" />
-      <br>React
-    </td>
-     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TypeScript
-    </td>
-      <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NextJS
-    </td>
- <td align="center"  width="85">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="jest" />
-      <br>Jest
-    </td>
-       <td align="center" width="85">
-       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="48" height="48" alt="linux" />
-      <br>Redux
-    </td>
+# Automation & Testing Skills
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+<br>Selenium
+</td>
+
+<td align="center" width="120">
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
+<br>Playwright
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
 </tr>
 
 <tr>
-   <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
-    </td>
-     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="java" />
-      <br>Java
-    </td>
-     <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="tailwind" />
-      <br>MongoDB
-    </td>
-      <td align="center" width="85">
-       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="sql" />
-      <br>MySQL
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="tailwind" />
-      <br>Redis
-    </td>
-   
-  </tr>
 
-  
-  <tr>
-     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg"" width="48" height="48" alt="rest-api" />
-      <br>REST 
-    </td>
-        <td align="center" width="85">
-       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="graphql" />
-      <br>graphQL
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
-      <br>Linux
-    </td>
-     <td align="center" width="85">
-     <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td>
-     <td align="center" width="85">
-       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="aws" />
-      <br>AWS
-    </td>
-  </tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+<br>Maven
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+
+</tr>
+
 </table>
+
 </div>
 
-</td></tr></table>  
- <br> 
+<br>
 
-# GitHub Stats 📊
- 
+# Testing Expertise
+
 <div align="center">
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameya-6964&langs_count=5&title_color=333333&text_color=333333&icon_color=4caf50&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/ameya-6964)
+
+| Area | Technologies / Skills |
+|---|---|
+| **Web Automation** | Selenium WebDriver, Playwright |
+| **Programming** | Java, JavaScript, TypeScript |
+| **Test Frameworks** | TestNG, JUnit |
+| **API Testing** | Postman, REST Assured, REST API |
+| **Test Automation** | UI Automation, API Automation, E2E Automation |
+| **Testing Types** | Functional, Regression, Smoke, Sanity, Integration |
+| **Test Design** | Test Cases, Test Scenarios, RTM, Defect Reporting |
+| **Build Tools** | Maven |
+| **Version Control** | Git, GitHub |
+| **CI/CD** | Jenkins |
+| **Database Testing** | MySQL, MongoDB |
+| **Containerization** | Docker |
+| **Operating Systems** | Linux, Windows |
+
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ameya-6964&&style=flat-square" align="center" />
-</div>  
+<br>
+
+# Banking & Financial Services
+
+### BFSI Domain Experience
+
+Currently working on Banking Domain projects with experience across:
+
+- Lending Domain
+- Core Banking Transformation
+- Banking Application Testing
+- Functional Testing
+- Automation Testing
+- Regression Testing
+- Sanity Testing
+- Integration Testing
+- API Testing
+- End-to-End Testing
+- Business Requirement Validation
+- Functional Specification Validation
+- Test Case Design
+- Requirement Traceability Matrix (RTM)
+- Defect Management
+
+### Project Experience
+
+**Middle East Banking Client**
+
+Currently working on a Banking Domain project for a Middle East client, specializing in the **Lending domain** and focusing on functional and automation testing of banking workflows.
+
+**National Banking Client**
+
+Experience working on **Core Banking Transformation projects**, contributing to testing and validation of banking applications and business processes.
+
+<br>
+
+# Selenium Automation
+
+### Java + Selenium WebDriver
+
+Developing web automation solutions using:
+
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Git & GitHub
+- Explicit Waits
+- Dynamic Element Handling
+- Browser Automation
+- Multiple Browser Execution
+- Data-Driven Testing
+- Assertions and Validations
+- Screenshot Capture
+- TestNG Reporting
+- Reusable Automation Utilities
+- Regression Test Automation
+
+<br>
+
+# Playwright Automation
+
+### Modern Web Automation
+
+Learning and implementing browser automation using Playwright with:
+
+- Playwright
+- JavaScript / TypeScript
+- Cross-Browser Testing
+- Chromium
+- Firefox
+- WebKit
+- Auto-Waiting
+- Locators
+- Page Interactions
+- Network Interception
+- Screenshots and Videos
+- Parallel Execution
+- Trace Viewer
+- End-to-End Testing
+
+<br>
+
+# API Testing
+
+### REST API Automation
+
+Working with API testing and automation using:
+
+- Postman
+- REST Assured
+- REST APIs
+- HTTP Methods
+- GET / POST / PUT / PATCH / DELETE
+- Request Headers
+- Query Parameters
+- Path Parameters
+- Request Body
+- Response Validation
+- JSON Validation
+- Status Code Validation
+- Authentication
+- API Chaining
+- Schema Validation
+- API Automation
+
+<br>
+
+# Database Testing
+
+Working with databases for backend validation and test data verification:
+
+- MySQL
+- MongoDB
+- SQL Queries
+- Data Validation
+- CRUD Operations
+- Backend Data Verification
+
+<br>
+
+# Testing Process
+
+My testing experience covers the complete Software Testing Life Cycle:
+
+```text
+Requirement Analysis
+        ↓
+Test Scenario Identification
+        ↓
+Test Case Design
+        ↓
+Test Data Preparation
+        ↓
+Test Execution
+        ↓
+Defect Identification
+        ↓
+Defect Reporting
+        ↓
+Defect Retesting
+        ↓
+Regression Testing
+        ↓
+Test Closure
