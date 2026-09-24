@@ -1,297 +1,317 @@
-# About Me
-
-### Software Test Engineer focused on Automation Testing with Java, Selenium, Playwright, API Testing, and TestNG. Experienced in building reliable and maintainable automation solutions and validating web applications and REST APIs. I also have a strong development background with React, Next.js, JavaScript, and MERN stack technologies, which helps me understand applications from both development and testing perspectives.
-
-- 🌍 I'm based in India
-- ✉️ You can contact me at [belvalkar7@gmail.com](mailto:belvalkar7@gmail.com)
-- 🚀 I'm currently working on a Banking Domain project for a Middle East client, specializing in the Lending domain. I also have experience working on Core Banking Transformation projects for a National client.
-- 🧠 I'm currently learning Advanced Software Test Automation with Java, Selenium, Playwright, and API Testing
-- 🔍 Interested in Web Automation, API Automation, Regression Testing, and Test Framework Development
-- 🏦 Experienced in Banking and Financial Services (BFSI) domain projects
-- ⚡ Fun fact: I use tabs over spaces
-
-<br>
-
-# Let's Connect
-
-<br>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+# Hi, I'm Ameya Belvalkar
+
+### Software Test Engineer | QA Automation | BFSI Technology
+
+**Java • Selenium • Playwright • API Testing • TestNG • SQL**
+
+I build reliable and maintainable automation solutions while testing complex  
+**Banking & Financial Services applications.**
+
+My development background in **React, Next.js, JavaScript and MERN** helps me  
+understand applications from both testing and development perspectives.
+
+<br>
+
+<a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/ameya6964.jsx/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="mailto:belvalkar7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ameya-6964&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br>
+---
 
-# Automation & Testing Skills
+## About Me
+
+- Software Test Engineer focused on **QA Automation**
+- Experienced with **Java, Selenium, Playwright, API Testing and TestNG**
+- Working in the **Banking & Financial Services (BFSI)** domain
+- Currently working on a **Middle East Banking Client – Lending Domain**
+- Experience with **Core Banking Transformation projects**
+- Strong experience in **Functional, Regression, Sanity, Integration and E2E Testing**
+- Development background in **React, Next.js, JavaScript and MERN**
+- Currently learning **Advanced Test Automation, API Automation and Framework Design**
+- Based in **India**
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
+### Testing & Automation
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,playwright" />
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
-<br>Selenium
-</td>
+### Programming
 
-<td align="center" width="120">
-<img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
-<br>Playwright
-</td>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
+### Development
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" />
 
-</tr>
+### Tools & DevOps
 
-<tr>
+<img src="https://skillicons.dev/icons?i=git,github,maven,jenkins,docker,linux" />
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
+### Cloud
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-<br>Maven
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-<br>Jenkins
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-
-</tr>
-
-</table>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 
 </div>
 
-<br>
+---
 
-# Testing Expertise
+## Testing Expertise
 
-<div align="center">
-
-| Area | Technologies / Skills |
+| Area | Skills |
 |---|---|
 | **Web Automation** | Selenium WebDriver, Playwright |
 | **Programming** | Java, JavaScript, TypeScript |
 | **Test Frameworks** | TestNG, JUnit |
-| **API Testing** | Postman, REST Assured, REST API |
-| **Test Automation** | UI Automation, API Automation, E2E Automation |
-| **Testing Types** | Functional, Regression, Smoke, Sanity, Integration |
-| **Test Design** | Test Cases, Test Scenarios, RTM, Defect Reporting |
+| **API Testing** | Postman, REST Assured, REST APIs |
+| **Testing Types** | Functional, Regression, Smoke, Sanity, Integration, E2E |
+| **Test Design** | Test Cases, Test Scenarios, RTM |
+| **Database Testing** | SQL, MySQL, MongoDB |
 | **Build Tools** | Maven |
-| **Version Control** | Git, GitHub |
 | **CI/CD** | Jenkins |
-| **Database Testing** | MySQL, MongoDB |
+| **Version Control** | Git, GitHub |
 | **Containerization** | Docker |
 | **Operating Systems** | Linux, Windows |
+| **Cloud** | AWS, Azure |
 
-</div>
+---
 
-<br>
+## BFSI Domain Experience
 
-# Banking & Financial Services
+My professional experience is focused on **Banking & Financial Services**, with exposure to complex banking workflows and enterprise applications.
 
-### BFSI Domain Experience
+### Lending Domain
 
-Currently working on Banking Domain projects with experience across:
+Currently working on a **Middle East Banking Client** with focus on the Lending domain.
 
-- Lending Domain
-- Core Banking Transformation
-- Banking Application Testing
+**Areas of Experience**
+
+- Credit & Lending workflows
+- Business Requirement Validation
+- Functional Specification Validation
 - Functional Testing
-- Automation Testing
 - Regression Testing
 - Sanity Testing
 - Integration Testing
 - API Testing
 - End-to-End Testing
-- Business Requirement Validation
-- Functional Specification Validation
 - Test Case Design
-- Requirement Traceability Matrix (RTM)
 - Defect Management
+- Requirement Traceability
 
-### Project Experience
+### Core Banking
 
-**Middle East Banking Client**
+Experience working on **Core Banking Transformation** projects involving:
 
-Currently working on a Banking Domain project for a Middle East client, specializing in the **Lending domain** and focusing on functional and automation testing of banking workflows.
+- Banking Application Testing
+- Business Process Validation
+- Data Validation
+- Migration Testing
+- Functional Testing
+- Regression Testing
+- End-to-End Validation
 
-**National Banking Client**
+---
 
-Experience working on **Core Banking Transformation projects**, contributing to testing and validation of banking applications and business processes.
+## Automation Testing
 
-<br>
+### Selenium
 
-# Selenium Automation
+My primary automation experience is built around:
 
-### Java + Selenium WebDriver
+**Java + Selenium WebDriver + TestNG + Maven**
 
-Developing web automation solutions using:
+**Key Areas**
 
-- Selenium WebDriver
-- Java
-- TestNG
-- Maven
-- Git & GitHub
-- Explicit Waits
-- Dynamic Element Handling
-- Browser Automation
-- Multiple Browser Execution
-- Data-Driven Testing
-- Assertions and Validations
-- Screenshot Capture
-- TestNG Reporting
-- Reusable Automation Utilities
-- Regression Test Automation
+`WebDriver` `Locators` `XPath` `CSS` `Explicit Waits`  
+`Actions` `JavaScript Executor` `Assertions` `Screenshots`  
+`Data-Driven Testing` `Cross-Browser Testing` `Reusable Utilities`
 
-<br>
+### Playwright
 
-# Playwright Automation
+Currently expanding my expertise with modern browser automation using **Playwright**.
 
-### Modern Web Automation
+**Key Areas**
 
-Learning and implementing browser automation using Playwright with:
+`Chromium` `Firefox` `WebKit` `Auto-Waiting`  
+`Locators` `Network Interception` `Parallel Execution`  
+`Trace Viewer` `Screenshots` `Video Recording` `E2E Testing`
 
-- Playwright
-- JavaScript / TypeScript
-- Cross-Browser Testing
-- Chromium
-- Firefox
-- WebKit
-- Auto-Waiting
-- Locators
-- Page Interactions
-- Network Interception
-- Screenshots and Videos
-- Parallel Execution
-- Trace Viewer
-- End-to-End Testing
+---
 
-<br>
+## API Testing
 
-# API Testing
+I work with REST APIs for functional and automation testing.
 
-### REST API Automation
+### Tools
 
-Working with API testing and automation using:
+`Postman` `REST Assured` `REST API`
 
-- Postman
-- REST Assured
-- REST APIs
-- HTTP Methods
+### Areas
+
 - GET / POST / PUT / PATCH / DELETE
 - Request Headers
 - Query Parameters
 - Path Parameters
 - Request Body
-- Response Validation
-- JSON Validation
 - Status Code Validation
+- JSON Validation
+- Response Validation
 - Authentication
 - API Chaining
 - Schema Validation
-- API Automation
+- Business Rule Validation
 
-<br>
+---
 
-# Database Testing
+## Database Testing
 
-Working with databases for backend validation and test data verification:
+I use database validation to verify backend data and support end-to-end testing.
 
-- MySQL
-- MongoDB
-- SQL Queries
+### Technologies
+
+`SQL` `MySQL` `MongoDB`
+
+### Areas
+
 - Data Validation
 - CRUD Operations
-- Backend Data Verification
+- Backend Verification
+- API-to-Database Validation
+- Test Data Validation
+- Migration Data Validation
+
+---
+
+## Development Background
+
+Before focusing primarily on QA Automation, I also worked with modern web development technologies.
+
+### Frontend
+
+`React.js` `Next.js` `JavaScript` `TypeScript`  
+`HTML` `CSS` `Tailwind CSS` `Bootstrap`
+
+### Backend
+
+`Node.js` `Express.js` `MongoDB` `REST APIs`
+
+This development background helps me understand applications across the complete flow:
+
+**UI → API → Backend → Database**
+
+---
+
+## Testing Approach
+
+I believe effective automation starts with understanding the application and its business requirements.
+
+**Requirement Analysis → Test Design → Test Execution → Defect Analysis → Retesting → Regression → Closure**
+
+My focus is on building automation that is:
+
+**Reliable • Maintainable • Reusable • Scalable**
+
+---
+
+## Certifications
+
+- **ISTQB Foundation Level (CTFL)** — Software Testing
+- **AWS Certified Cloud Practitioner** — AWS
+- **Microsoft Azure Fundamentals (AZ-900)** — Azure
+- **IBM Git & GitHub Certification**
+- **Meta Front-End Developer**
+- **NCFM Financial Markets – Beginners Module**
+- **Licentiate Certified — Insurance Institute of India**
+
+---
+
+## Currently Learning
+
+I'm currently focused on improving my automation engineering capabilities in:
+
+- Advanced Selenium Automation
+- Playwright Automation
+- API Automation
+- REST Assured
+- Test Framework Design
+- Parallel Test Execution
+- CI/CD Automation
+- Scalable Automation Architecture
+
+---
+
+## What You'll Find Here
+
+My GitHub repositories cover areas such as:
+
+- Selenium & Java Automation
+- Playwright Automation
+- API Testing & REST Assured
+- TestNG Frameworks
+- SQL & Database Testing
+- QA Utilities
+- Testing Practice Projects
+- Full-Stack Development Projects
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ameya-6964&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameya-6964&layout=compact&hide_border=true&langs_count=8" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ameya-6964&hide_border=true" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ameya-belvalkar-210652136/">
+<img src="https://img.shields.io/badge/LinkedIn-Ameya%20Belvalkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:belvalkarameya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-belvalkar7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ameya6964.jsx/">
+<img src="https://img.shields.io/badge/Instagram-ameya6964.jsx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
-# Testing Process
+<div align="center">
 
-My testing experience covers the complete Software Testing Life Cycle:
+### Software Testing | Automation | BFSI | Engineering
 
-```text
-Requirement Analysis
-        ↓
-Test Scenario Identification
-        ↓
-Test Case Design
-        ↓
-Test Data Preparation
-        ↓
-Test Execution
-        ↓
-Defect Identification
-        ↓
-Defect Reporting
-        ↓
-Defect Retesting
-        ↓
-Regression Testing
-        ↓
-Test Closure
+**"Quality is not just finding bugs. It's building confidence."**
+
+</div>
